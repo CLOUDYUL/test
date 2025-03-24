@@ -1,4 +1,4 @@
-Hello ~ world ~
+Hello
 main 2차 수정
 Joy commit B: change
 Joy commit C: another change
